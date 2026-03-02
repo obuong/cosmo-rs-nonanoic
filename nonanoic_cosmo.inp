@@ -1,0 +1,8 @@
+! r2SCAN-3c TightSCF CPCM
+
+%cpcm
+  smd false
+  epsilon 78.3553
+end
+
+* xyzfile 0 1 nonanoic.xyz

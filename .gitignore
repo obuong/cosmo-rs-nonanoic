@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+cosmors311/
+
+# COSMO / ORCA heavy generated files
+*.gbw
+*.ges
+*.cpcm
+*.cpcm_corr
+*.densities
+*.densitiesinfo
+*.orcacosmo
+
+# Outputs
+*.out
+*.lastout
+*.tmp
+*.SHARKINP.tmp
+*.citations.tmp
