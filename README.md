@@ -132,3 +132,7 @@ Sustainable process engineering
 License
 
 This repository is intended for academic and research use.
+## Figures
+
+![gamma vs T](figures/gamma_nonanoic_in_water_vs_T.png)
+![ln gamma vs 1/T](figures/ln_gamma_nonanoic_in_water_vs_T.png)
